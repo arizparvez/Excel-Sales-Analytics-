@@ -1,5 +1,13 @@
 # Excel-Sales-Analytics
-Generated customer net sales performance report & market performance vs target report for fiscal year 2018, 19 and 20. Calculated the % growth or % decline of each customer and market.
-And can conclude that customers of AtliQ Hardware performed quite remarkably for the fiscal year 2021 by achieving 304.5% more as compared to the fiscal year 2020 and also analyzed the market performance v/s target report of AtliQ Hard
-ware & can conclude that the market performance for the fiscal year 2021 is lagging by 8.4% to the assigned target.
+Evaluated customer performance for AtliQ Hardware, revealing a 304.5% increase in FY 2021 compared to FY 2020. Assessed market performance vs. target and identified an 8.4% shortfall against the assigned goal for FY 2021.
+
+AtliQ Hardware Excel Project: A Step-by-Step Execution Plan:
+Step 1: To Understand the business model of AtliQ Hardware 
+Step 2: To Understand the Data of AtliQ Hardware 
+Step 3: Extract, Transform & Load 
+Step 4: List of Report Components 
+Step 5: Data Modelling 
+Step 6: Creating Columns with DAX measures
+Step 7: Data Validation by using Power Pivot & Pivot Table 
+Step 8: User Empathetic Report Design
 
