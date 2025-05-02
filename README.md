@@ -1,4 +1,4 @@
-# Excel-Sales-Analytics
+# Excel: Sales-Analytics
 Evaluated customer performance for AtliQ Hardware, revealing a 304.5% increase in FY 2021 compared to FY 2020. Assessed market performance vs. target and identified an 8.4% shortfall against the assigned goal for FY 2021.
 
 AtliQ Hardware Excel Project: A Step-by-Step Execution Plan:
